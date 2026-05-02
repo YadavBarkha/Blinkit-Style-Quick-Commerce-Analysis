@@ -1,6 +1,5 @@
 
 # 🛒 Tableau Project: Blinkit-Style Quick Commerce Analysis
-
 ![](https://in.images.search.yahoo.com/search/images;_ylt=AwrKB1YNF_ZpOQIAOXW7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=blinkit+banner&fr2=piv-web&type=E210IN826G0&fr=mcafee#id=44&iurl=https%3A%2F%2Fthebusinessrule.com%2Fwp-content%2Fuploads%2F2023%2F04%2FBlinkit-bm666-1-1.png&action=click)
 
 ## 🔍 Project Overview
