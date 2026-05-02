@@ -72,13 +72,12 @@ Visualizes in-stock vs out-of-stock products.
 
 ## 📊 Dashboards
 
-### 🔹 Dashboard 1: Business Overview
+### 🔹 Dashboard 1: Value & Product Amounts
 
-* Total Products KPI
-* Total Orders KPI
-* Average Discount KPI
-* Category-wise Sales
-* City-wise Orders
+
+* Total Orders Value
+* Average Product Listings
+
 
 👉 **Insight:** Provides an overall snapshot of platform performance.
 
