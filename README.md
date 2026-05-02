@@ -1,6 +1,8 @@
 
 # 🛒 Tableau Project: Blinkit-Style Quick Commerce Analysis
 
+![](https://in.images.search.yahoo.com/search/images;_ylt=AwrKB1YNF_ZpOQIAOXW7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=blinkit+banner&fr2=piv-web&type=E210IN826G0&fr=mcafee#id=44&iurl=https%3A%2F%2Fthebusinessrule.com%2Fwp-content%2Fuploads%2F2023%2F04%2FBlinkit-bm666-1-1.png&action=click)
+
 ## 🔍 Project Overview
 
 This project analyzes quick commerce (Blinkit-style) data to understand product pricing, discount strategies, customer demand, and regional performance. The objective is to derive actionable business insights using interactive Tableau dashboards.
@@ -162,7 +164,11 @@ Visualizes in-stock vs out-of-stock products.
 
 ## 📸 Dashboard Preview
 
+![](https://github.com/YadavBarkha/Blinkit-Style-Quick-Commerce-Analysis/blob/main/Screenshots/Screenshot%202026-05-02%20193709.png)
+
 ![](https://github.com/YadavBarkha/Blinkit-Style-Quick-Commerce-Analysis/blob/main/Screenshots/Screenshot%202026-05-02%20193725.png)
+
+![]()
 
 ---
 
