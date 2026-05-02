@@ -1,5 +1,6 @@
-![Blinkit-Style Quick Commerce Analysis](C:\Users\barkh\Downloads\Blinkit-bm666-1-1.png)
+
 # 🛒 Tableau Project: Blinkit-Style Quick Commerce Analysis
+![Blinkit-Style Quick Commerce Analysis](C:\Users\barkh\Downloads\Blinkit-bm666-1-1.png)
 
 
 ## 🔍 Project Overview
