@@ -162,7 +162,7 @@ Visualizes in-stock vs out-of-stock products.
 
 ## 📸 Dashboard Preview
 
-*(Add your dashboard screenshots here)*
+![](https://github.com/YadavBarkha/Blinkit-Style-Quick-Commerce-Analysis/blob/main/Screenshots/Screenshot%202026-05-02%20193725.png)
 
 ---
 
